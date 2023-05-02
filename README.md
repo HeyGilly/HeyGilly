@@ -39,7 +39,8 @@ Currently, I am a Full-Stack Associate Web Development Instructor at Codeup in T
 
 <br>
 
->“Would I rather be feared or loved? Easy. Both. I want people to be afraid of how much they love me.” <p>- Michael Scott</p>
+![HeyGilly](img/MichaelScott.png)
+
 
 <br>
 
