@@ -32,27 +32,49 @@ Currently, I am a Full-Stack Associate Web Development Instructor at Codeup in T
 
 <br/>  
 
-<table>
-<tr style="border: none">
-<td  width="70%" style="border: none">
-  
+[//]: # (<table>)
+
+[//]: # (<tr style="border: none">)
+
+[//]: # (<td  width="70%" style="border: none">)
+
+<div style="display: flex">
+
+<section style="width: 60%;padding-right: 2em">
+
 - 🔭 I’m currently working at [Codeup](https://github.com/rishavanand/github-profilinator) as a Full-stack Associate Web Dev Instructor  
 - 🌱 I’m currently learning Spring and Spring Boot  
 - ❓ Ask me about anything related to Front-End development, Java, Spring and Spring Boot  
-- ⚡ Fun fact: When I was in High school, I had the opportunity to win a state championship 🏆 in Basketball 🏀  
-
-
+- ⚡ Fun fact: When I was in High school, I had the opportunity to win a state championship 🏆 in Basketball 🏀 
 >“Would I rather be feared or loved? Easy. Both. I want people to be afraid of how much they love me.” <p>- Michael Scott</p>
 
+</section>
+<section style="width: 40%">
 
-</td>
-<td width="30%" style="border: none">
+![Listening to on Spotify](https://spotify-github-profile.vercel.app/api/view?uid=313cbppertcp3uove6qgsqz3kmaq&cover_image=false&theme=default&show_offline=false&background_color=000000&interchange=true&bar_color=66ef61&bar_color_cover=false)  
 
-![Listening to on Spotify](https://spotify-github-profile.vercel.app/api/view?uid=313cbppertcp3uove6qgsqz3kmaq&cover_image=true&theme=default&show_offline=false&background_color=000000&interchange=true&bar_color=66ef61&bar_color_cover=false)  
+</section>
 
-</td>
-</tr>
-</table>  
+</div>  
+
+
+
+
+
+
+
+[//]: # (</td>)
+
+[//]: # (<td width="30%" style="border: none">)
+
+
+
+[//]: # ()
+[//]: # (</td>)
+
+[//]: # (</tr>)
+
+[//]: # (</table>  )
 
 
 <br/>  
