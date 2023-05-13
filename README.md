@@ -35,7 +35,7 @@ Currently, I am a Full-Stack Associate Web Development Instructor at Codeup in T
 - 🔭 I’m currently working at [Codeup](https://github.com/rishavanand/github-profilinator) as a Full-stack Associate Web Dev Instructor  
 - 🌱 I’m currently learning Spring and Spring Boot  
 - ❓ Ask me about anything related to Front-End development, Java, Spring and Spring Boot  
-- ⚡ Fun fact: When I was in High school, I had the opportunity to win a state championship 🏆 in Basketball 🏀 
+- ⚡ Fun fact: When I was in High school, I won a state championship 🏆 in Basketball 🏀 
 
 <br>
 
